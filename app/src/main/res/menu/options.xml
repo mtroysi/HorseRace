@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created by Morgane TROYSI on 12/9/16-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="fr.m2sili.mtroysi.contactlist.ContactList">
+
+    <item
+        android:id="@+id/subscription"
+        android:title="Inscriptions"/>
+    <item
+        android:id="@+id/start_race"
+        android:title="Lancer la course"/>
+</menu>
